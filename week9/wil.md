@@ -4,7 +4,7 @@ HTTP Method
 브라우저 캐싱이란?
 --------------
 1. client가 server에게 Index.html을 달라 요청하고
-2. server는 client 에게 <h1>hello world</h1>을 반환해주는 것
+2. server는 client 에게 내용을 반환해주는 것
    
 * 캐싱을 하면 안 되는 경우
   :: 로그인 화면 / 은행업무 / 원서 접수 등 개인정보가 중요하거나 중복 접수의 에러 발생 시
